@@ -95,6 +95,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - GCSEs: 4A*s, 5As
 - Olympiad in UK Senior Mathematical Challenge (top 1000 people)
 - Bronze medal in Olympiad in UK Junior Mathematical Challenge (top 120 people)
+- ECDL (European computer driver's license)
 
 ## Hobbies
 
