@@ -1,6 +1,4 @@
-## Your Name
-
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+## Tarun (Theodore Weisz)
 
 ## Projects
 
