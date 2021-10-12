@@ -1,5 +1,14 @@
 ## Tarun (Theodore Weisz)
 
+<div align="center">
+
+[Projects](#projects) |
+[Work Experience](#experience) |
+[Education](#education) |
+[Hobbies & Interests](#hobbies) 
+
+</div>
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -9,7 +18,7 @@
 | **DogBnb**        | AirBnb clone but for dogs! | Ruby, Sinatra, Rspec, Capybara, CSS, HTML |
 | **Bowling-Challenge** | Precise functionality for bowling scorecard calculations | JavaScript |
 
-## Work Experience
+## Experience
 
 **Goodwood Festival of Speed** (July 2018)
 
