@@ -64,10 +64,9 @@ Worked with writers Suzy and Jacky Klein, to help make their book more readable 
 - Holistic learning
 - Mentoring
 
-### University of Sussex (2016 to 2019)
+### University of Sussex (2016 to 2020)
 
-- English Literature
-- 2:2
+- BA English Literature, 2:2
 
 ### City of London School
 - A levels: As in English Literature & Mathematics, C in English Language
@@ -76,6 +75,6 @@ Worked with writers Suzy and Jacky Klein, to help make their book more readable 
 - Bronze medal in Olympiad in UK Junior Mathematical Challenge (top 120 people)
 - ECDL (European computer driver's license)
 
-## Hobbies
+## Interests
 
-Travel, meditation, playing football, boardgames, cooking.
+Travel, meditation, playing football, boardgames, cooking, volunteering, co-ordinating and hosting a podcast.
