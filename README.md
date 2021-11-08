@@ -9,7 +9,7 @@
 
 </div>
 
-I am a creative and technical thinker, with a strong multidisciplinary background, who loves taking left-field approaches to problem solving.
+I am a creative and technical thinker, with a strong multidisciplinary background, who loves taking novel approaches to problem solving.
 
 Recent achievements include setting up a fortnightly podcast featuring speakers from the US and Europe, creating a murder-mystery web game in under two weeks for our final project and ongoing volunteering to cook for people struggling with homelessness.
 
