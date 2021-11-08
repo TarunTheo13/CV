@@ -9,7 +9,7 @@
 
 </div>
 
-I am a creative and technical thinker, with a strong multidisciplinary background, who loves taking novel approaches to problem solving.
+I am a creative and technical thinker, with a strong multidisciplinary background, who loves taking novel approaches to problem solving. I have recently graduated from the University of Sussex with a degree in English Literature, following which I took a four-month course in web development at Makers Academy.
 
 Recent achievements include setting up a fortnightly podcast featuring speakers from the US and Europe, creating a murder-mystery web game in under two weeks for our final project and ongoing volunteering to cook for people struggling with homelessness.
 
