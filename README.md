@@ -37,23 +37,27 @@ _Steward_
 
 _School of Ted Student_
 
-My work was varied included working on a sustainability project, where I produced a notice detailing Ted’s pledge to use ethical cotton and to encourage designers to adapt to this pledge. My other work tasks included preparing clothing items to be ready for sale.  Working at Ted Baker helped me to develop new skills and work in a flexible way with a variety of people.
+- My work was varied included working on a sustainability project, where I produced a notice detailing Ted’s pledge to use ethical cotton and to encourage designers to adapt to this pledge.
+- My other work tasks included preparing clothing items to be ready for sale.
+- Working at Ted Baker helped me to develop new skills and work in a flexible way with a variety of people.
 
 **Local Youth Group** (September 2015-July 2016)
 
 _Youth Leader_
 
-Organised and ran activities for children aged 7-14. This experience helped me to develop important skills such as making detailed preparation and being able to adapt quickly to the unexpected.
+- Organised and ran activities for children aged 7-14.
+- This experience helped me to develop important skills such as making detailed preparation and being able to adapt quickly to the unexpected.
 
 **Magic Light Pictures** (August 2015)
 
 _Intern_
 
-Assisted in the production of Stickman, a children’s animation, and in the merchandising department working on the Gruffalo series. Produced a research report on the Prague Kindertransport for a future project.
+- Assisted in the production of Stickman, a children’s animation, and in the merchandising department working on the Gruffalo series.
+- Produced a research report on the Prague Kindertransport for a future project.
 
 **‘What is Contemporary Art?’ (published by Museum of Modern Art, New York)**
 
-Worked with writers Suzy and Jacky Klein, to help make their book more readable for young children.
+- Worked with writers Suzy and Jacky Klein, to help make their book more readable for young children.
 
 ## Education
 
