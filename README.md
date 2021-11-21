@@ -68,7 +68,7 @@ Working twelve-hour shifts, where constant awareness and focus was required, at 
 
 **Adaptability**
 
-There were always many unknown factors when working as a youth leader. Working with different children of different age groups meant that we had to adapt activities to make them suitable for whoever we were looking after. Frequently, we had to completely rethink our previous planned activities and spontaneously create new ones to engage the children. This approach to challenges proved very beneficial for the Makers projects when new technologies and frameworks had to be used in different ways to the ones we had previous experience with. The ability to adapt to different individuals was also especially useful for the daily pairing sessions and the many group projects that took place during the course.
+When working as a youth leader, there were always many unknown factors. Working with different children of varying age groups meant that I had to adapt activities to make them suitable for whoever I was looking after. Frequently, planned activities had to be completely rethought and new ones spontaneously created to engage the children. This approach to challenges proved very beneficial for the Makers projects when I had to apply new technologies and frameworks in different ways to the ones I had previous experience with. The ability to adapt to working with different individuals was especially useful for the daily pairing sessions and the many group projects that took place during the course.
 
 **Problem-solving**
 
