@@ -59,6 +59,21 @@ _Intern_
 
 - Worked with writers Suzy and Jacky Klein, to help make their book more readable for young children.
 
+## Skills
+
+**Resilience**
+
+Working twelve-hour shifts, where constant awareness and focus was required, at Goodwood Festival of Speed taught me the value of resilience. At Makers we dealt with constant streams of new information and persistent time pressure to complete weekly projects. My past experiences helped me have the resolve required to produce high-quality projects in short time frames, while applying the new knowledge that we had learnt.
+
+**Adaptability**
+
+There were always many unknown factors when working as a youth leader. Working with different children of different age groups meant that we had to adapt activities to make them suitable for whoever we were looking after. Frequently, we had to completely rethink our previous planned activities and spontaneously create new ones to engage the children. This approach to challenges proved very beneficial for the Makers projects when new technologies and frameworks had to be used in different ways to the ones we had previous experience with. The ability to adapt to different individuals was also especially useful for the daily pairing sessions and the many group projects that took place during the course.
+
+**Problem-solving**
+
+From a very young age, I have loved problem-solving and logic puzzles, including sudoku, killer sudoku and kakuro. This translated into frequent efforts in the United Kingdom Maths Trust olympiads, where these skills were applied under intense time pressure. Upon discovering my interest in coding, I found a lot of joy in solving technical coding puzzles, as well as applying similar thought patterns to solving debugging issues.
+
+
 ## Education
 
 ### Makers Academy (May to August 2021)
