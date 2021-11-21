@@ -4,7 +4,7 @@
 
 [Projects](#projects) |
 [Work Experience](#experience) |
-[Skills] (#skills) |
+[Skills](#skills) |
 [Education](#education) |
 [Hobbies & Interests](#hobbies) 
 
