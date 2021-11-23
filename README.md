@@ -72,7 +72,7 @@ When working as a youth leader, there were always many unknown factors. Working 
 
 **Problem-solving**
 
-From a very young age, I have loved problem-solving and logic puzzles, including sudoku, killer sudoku and kakuro. This translated into frequent efforts in the United Kingdom Maths Trust olympiads, where these skills were applied under intense time pressure. Upon discovering my interest in coding, I found a lot of joy in solving technical coding puzzles, as well as applying similar thought patterns to solving debugging issues.
+From a very young age, I have loved problem-solving and logic puzzles, including sudoku, killer sudoku and kakuro. This translated into frequent efforts in the United Kingdom Maths Trust olympiads, where these skills were applied under intense time pressure. Upon discovering my interest in coding, I found much joy in solving technical coding puzzles, as well as applying similar thought patterns to solving debugging issues.
 
 
 ## Education
