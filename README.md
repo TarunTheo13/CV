@@ -6,7 +6,7 @@
 [Work Experience](#experience) |
 [Skills](#skills) |
 [Education](#education) |
-[Hobbies & Interests](#hobbies) 
+[Hobbies & Interests](#interests) 
 
 </div>
 
