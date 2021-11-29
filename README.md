@@ -28,11 +28,13 @@ I am excited to work in tech as I thrive in an environment that offers constant
 ## Experience
 
 **Mantrabhumi Software Project** (October 2021 - Present)
+_Voluntary Junior Developer_
 
-- Voluntary pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
+- Pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
 - Learning about actor frameworks and expanding use of JavaScript.
 
 **Holistic Bhakti Podcast** (November 2020 - Present)
+_Organiser and presenter_
 
 - Arranging speakers, chairing sessions and organising digital promotions.
 
