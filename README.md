@@ -29,8 +29,12 @@ I am excited to work in tech as I thrive in an environment that offers constant
 
 **Mantrabhumi Software Project** (October 2021 - Present)
 
-- Pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
+- Voluntary pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
 - Learning about actor frameworks and expanding use of JavaScript.
+
+**Holistic Bhakti Podcast** (November 2020 - Present)
+
+- Arranging speakers, chairing sessions and organising digital promotions.
 
 **Goodwood Festival of Speed** (July 2018)
 
@@ -47,7 +51,7 @@ _School of Ted Student_
 - My other work tasks included preparing clothing items to be ready for sale.
 - Working at Ted Baker helped me to develop new skills and work in a flexible way with a variety of people.
 
-**Local Youth Group** (September 2015-July 2016)
+**Local Youth Group** (September 2015 - July 2016)
 
 _Youth Leader_
 
