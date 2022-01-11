@@ -34,6 +34,14 @@ _Voluntary Junior Developer_
 - Pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
 - Learning about actor frameworks and expanding use of JavaScript.
 
+**Self-Inspired Programme** (November 2021 - Present)
+
+_Mentor and tutor_
+
+- Assisting in delivery of personal development course for youths aged 18-21 to train them in different areas of business
+- Researching to produce educational materials on marketing, advertising and communications
+- Delivering seminars and one-on-one support for trainees
+
 **Holistic Bhakti Podcast** (November 2020 - Present)
 
 _Organiser and presenter_
