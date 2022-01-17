@@ -38,7 +38,7 @@ _Voluntary Junior Developer_
 
 _Mentor and tutor_
 
-- Assisting in delivery of personal development course for youths aged 18-21 to train them in different areas of business
+- Assisting in delivery of personal development course for young adults aged 18-21 to train them in different areas of business
 - Researching to produce educational materials on marketing, advertising and communications
 - Delivering seminars and one-on-one support for trainees
 
