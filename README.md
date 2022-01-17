@@ -23,7 +23,7 @@ I am excited to work in tech as I thrive in an environment that offers constant
 | **Tricera-Cops**             | A dinosaur-themed, murder mystery escape room game.| React, React router, JSX, Bootstrap, CSS, HTML |
 | **Acebook**       | A full-stack web app based on the functionality of Facebook| Ruby on Rails, PostgreSQL, RSpec, CSS, HTML |
 | **DogBnb**        | AirBnb clone but for dogs! | Ruby, Sinatra, Rspec, Capybara, CSS, HTML |
-| **Bowling-Challenge** | Precise functionality for bowling scorecard calculations | JavaScript |
+| **Bowling-Challenge** | Precise functionality for bowling scorecard calculations | JavaScript, Jasmine |
 
 ## Experience
 
