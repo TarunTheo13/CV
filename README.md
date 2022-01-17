@@ -21,9 +21,9 @@ I am excited to work in tech as I thrive in an environment that offers constant
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | <a href="https://github.com/TarunTheo13/tricera-cops">**Tricera-Cops**</a> | A dinosaur-themed, murder mystery escape room game.| React, React router, JSX, Bootstrap, CSS, HTML |
-| **Acebook**       | A full-stack web app based on the functionality of Facebook| Ruby on Rails, PostgreSQL, RSpec, CSS, HTML |
-| **DogBnb**        | AirBnb clone but for dogs! | Ruby, Sinatra, Rspec, Capybara, CSS, HTML |
-| **Bowling-Challenge** | Precise functionality for bowling scorecard calculations | JavaScript, Jasmine |
+| <a href="https://github.com/TarunTheo13/Catbook">**Acebook**</a> | A full-stack web app based on the functionality of Facebook| Ruby on Rails, PostgreSQL, RSpec, CSS, HTML |
+| <a href="https://github.com/TarunTheo13/dogbnb">**DogBnb**</a> | AirBnb clone but for dogs! | Ruby, Sinatra, Rspec, Capybara, CSS, HTML |
+| <a href="https://github.com/TarunTheo13/bowling-challenge">**Bowling-Challenge**</a> | Precise functionality for bowling scorecard calculations | JavaScript, Jasmine |
 
 ## Experience
 
