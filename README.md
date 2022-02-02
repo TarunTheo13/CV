@@ -1,4 +1,4 @@
-## Tarun (Theodore Weisz)
+## Theo Weisz
 
 <div align="center">
 
