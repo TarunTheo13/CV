@@ -34,7 +34,7 @@ _Voluntary Junior Developer_
 - Pair programming with senior developer, developing a web framework to build applications, e.g. a website to collate a virtual songbook.
 - Learning about actor frameworks and expanding use of JavaScript.
 
-**Self-Inspired Programme** (November 2021 - Present)
+**Self-Inspired Programme** (November - December 2021)
 
 _Mentor and tutor_
 
